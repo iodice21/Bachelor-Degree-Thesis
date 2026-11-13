@@ -63,6 +63,5 @@ Il lavoro affronta il problema partendo da una scomposizione dei gradi di libert
 ##  Struttura della Repository
 ```text
 ├── docs/                # Relazione di tesi in formato PDF
-├── models/              # Modelli e schemi Simulink (.slx)
-├── scripts/             # Script MATLAB di inizializzazione parametri e plotting
+├── models/              # Modelli e schemi Simulink (.slx)            # Script MATLAB di inizializzazione parametri e plotting
 └── README.md            # Documentazione del progetto
