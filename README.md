@@ -34,7 +34,7 @@ The work addresses the problem by decomposing the vehicle's degrees of freedom:
 ---
 
 <a name="italiano"></a>
-## 🇮🇹 Versione Italiana
+## Versione Italiana
 
 # Sviluppo di un Modello di Simulazione MATLAB per la Dinamica Laterale di un Veicolo Autonomo
 
